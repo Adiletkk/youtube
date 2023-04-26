@@ -1,0 +1,9 @@
+.wrapper{ 
+    width: 100%;
+}
+.video{ 
+    margin-left: 130px;
+    width: 900px;
+    height: 550px;
+    border: 1px solid black;
+}
